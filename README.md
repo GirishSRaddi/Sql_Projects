@@ -30,3 +30,14 @@ Across the projects in this repository, the following SQL concepts are used:
 ## 📂 Repository Structure
 Each folder in this repository represents an **individual SQL project**.
 
+---
+
+## 📊 Projects
+This repository contains multiple hands-on SQL projects.  
+Each project folder includes:
+- A project-specific README
+- SQL queries
+- Dataset used for analysis
+
+Projects are added and updated continuously.
+
