@@ -23,6 +23,7 @@ The dataset consists of table containing structured records related to the analy
 ```
 p1.sql        -- Contains all SQL queries for analysis
 README.md    -- Project documentation
+SQL - Retail Sales Analysis_utf .csv  -- Source/DataSet
 ```
 
 ## SQL Queries Included
